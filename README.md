@@ -1,4 +1,4 @@
-# In Time Ruby
+# ExpressOne Ruby
 Ruby client for ExpressOne shipment tracker and parcel creator
 
 ## Installation
